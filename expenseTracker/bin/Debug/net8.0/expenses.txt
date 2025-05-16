@@ -1,0 +1,5 @@
+House Rent,10000
+Net Bill,500
+Course Fee,1000
+Travel Cost,500
+Lunch,300

@@ -12,3 +12,4 @@ G:\Csharp\expenseTracker\expenseTracker\obj\Debug\net8.0\refint\expenseTracker.d
 G:\Csharp\expenseTracker\expenseTracker\obj\Debug\net8.0\expenseTracker.pdb
 G:\Csharp\expenseTracker\expenseTracker\obj\Debug\net8.0\expenseTracker.genruntimeconfig.cache
 G:\Csharp\expenseTracker\expenseTracker\obj\Debug\net8.0\ref\expenseTracker.dll
+G:\Csharp\expenseTracker\expenseTracker\obj\Debug\net8.0\expenseTracker.sourcelink.json
